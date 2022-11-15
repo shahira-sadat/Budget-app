@@ -3,10 +3,6 @@
 # Budget Manager
 
 > A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
-## Live demo:
-You can check out the live demo [here](https://budget-manager-rails.herokuapp.com/).
-
-![Animation](https://user-images.githubusercontent.com/50721479/190150479-bc759674-9c64-45c2-8fb2-f2b08507d049.gif)
 
 ## Entity Relationship Diagram
 <img src="https://user-images.githubusercontent.com/50721479/190148367-be9ac1c0-2d96-4049-aea3-8e5d75c1f5fa.png" width="600">
