@@ -1,12 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 # Budget Manager
 
 > A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
-
-<img width="1440" alt="Screen Shot 2022-11-17 at 6 15 23 PM" src="https://user-images.githubusercontent.com/53530780/202463607-8951e17f-7d17-4f04-bcca-3739ea246acf.png">
-
-<img width="1440" alt="Screen Shot 2022-11-17 at 6 15 54 PM" src="https://user-images.githubusercontent.com/53530780/202463621-51b77a51-86ea-41eb-a55b-7d76b68bb284.png">
 
 
 ## Made With
