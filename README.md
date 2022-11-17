@@ -4,14 +4,19 @@
 
 > A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
-## Entity Relationship Diagram
-<img src="https://user-images.githubusercontent.com/50721479/190148367-be9ac1c0-2d96-4049-aea3-8e5d75c1f5fa.png" width="600">
+<img width="1440" alt="Screen Shot 2022-11-17 at 6 15 23 PM" src="https://user-images.githubusercontent.com/53530780/202463607-8951e17f-7d17-4f04-bcca-3739ea246acf.png">
+
+<img width="1440" alt="Screen Shot 2022-11-17 at 6 15 54 PM" src="https://user-images.githubusercontent.com/53530780/202463621-51b77a51-86ea-41eb-a55b-7d76b68bb284.png">
+
 
 ## Made With
 
 - Ruby on Rails
 - Devise
 - Bootstrap 5
+
+## Entity Relationship Diagram
+<img src="https://user-images.githubusercontent.com/50721479/190148367-be9ac1c0-2d96-4049-aea3-8e5d75c1f5fa.png" width="600">
 
 ## Getting Started
 
