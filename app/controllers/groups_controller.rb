@@ -1,7 +1,10 @@
 class GroupsController < ApplicationController
+  before_action :authenticate_user!, except: [:index]
   def index
+    return unless current_user
+
     @user = current_user
-    @groups = @user.groups
+    @groups = @user.groups.includes(:spendings)
   end
 
   def show

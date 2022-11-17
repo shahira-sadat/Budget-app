@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe User, type: :model do
   before :each do
-    @user = User.new(name: 'Ahmad', email: 'ahmad@gmail.com', password: 123_456, password_confirmation: 123_456)
+    @user = User.new(name: 'ahmad', email: 'ahmad@gmail.com', password: 123_456, password_confirmation: 123_456)
     @user.save
   end
 

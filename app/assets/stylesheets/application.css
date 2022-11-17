@@ -31,6 +31,15 @@ body {
   background: #5fb523;
 }
 
+.splash-screen {
+  height: 100vh;
+  background: linear-gradient(#000428, #004e92);
+}
+
+.splash-logo {
+  font-family: monospace;
+}
+
 .menu-btn {
   background-color: transparent;
   border: none;
@@ -59,4 +68,14 @@ body {
 
 .gray-text {
   color: #434b54;
+}
+
+.btn-success {
+  background: #5fb523;
+  border-color: #5fb523;
+}
+
+.btn-primary {
+  background: #3778c2;
+  border-color: #3778c2;
 }
