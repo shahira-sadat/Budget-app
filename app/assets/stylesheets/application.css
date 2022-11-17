@@ -33,7 +33,7 @@ body {
 
 .splash-screen {
   height: 100vh;
-  background: linear-gradient(#000428 , #004e92)
+  background: linear-gradient(#000428, #004e92);
 }
 
 .splash-logo {
@@ -68,8 +68,4 @@ body {
 
 .gray-text {
   color: #434b54;
-}
-
-btn:hover{
-  background: light-blue;
 }
