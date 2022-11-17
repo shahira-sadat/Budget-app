@@ -69,3 +69,13 @@ body {
 .gray-text {
   color: #434b54;
 }
+
+.btn-success {
+  background: #5fb523;
+  border-color: #5fb523;
+}
+
+.btn-primary {
+  background: #3778c2;
+  border-color: #3778c2;
+}
