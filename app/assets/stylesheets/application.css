@@ -27,12 +27,22 @@ body {
   color: #f8f9fa;
 }
 
+.green {
+  background: #5fb523;
+}
+
 .menu-btn {
   background-color: transparent;
   border: none;
   outline: none;
   color: #fff;
-  font-size: 25px;
+  font-size: 22px;
+}
+
+.fa-house {
+  color: #fff;
+  font-size: 18px;
+  margin-right: 8px;
 }
 
 .category-icon {
@@ -43,5 +53,10 @@ body {
 }
 
 .category-name {
-  color: #878a8f;
+  color: #434b54;
+  text-decoration: none;
+}
+
+.gray-text {
+  color: #434b54;
 }
